@@ -15,7 +15,12 @@ python setup.py build_ext --inplace
 
 
 ### Download pre-trained weight and config file
-
+```sh
 python infer.py
+```
 
 
+## Credits
+- [MasayaKawamura/MB-iSTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS)
+- [misakiudon/MB-iSTFT-VITS-multilingual](https://github.com/misakiudon/MB-iSTFT-VITS-multilingual)
+- [FENRlR/MB-iSTFT-VITS2](https://github.com/FENRlR/MB-iSTFT-VITS2)
