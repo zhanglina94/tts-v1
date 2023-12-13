@@ -40,3 +40,4 @@ python infer.py
 - [MasayaKawamura/MB-iSTFT-VITS](https://github.com/MasayaKawamura/MB-iSTFT-VITS)
 - [ORI-Muchim/PolyLangVITS](https://github.com/ORI-Muchim/PolyLangVITS)
 - [misakiudon/MB-iSTFT-VITS-multilingual](https://github.com/misakiudon/MB-iSTFT-VITS-multilingual)
+- [innnky/emotional-vits](https://github.com/innnky/emotional-vits/tree/main)
