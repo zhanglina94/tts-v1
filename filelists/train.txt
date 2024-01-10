@@ -1,0 +1,2 @@
+data/wav/0001.wav|kɯnɯngwentʃʰanɯntʃʰəkʰaɾjəgoes=ɯnɯngət#k=atʰat#t=a.
+data/wav/0002.wav|kɯnɯngwentʃʰanɯntʃʰəkʰaɾjəgoes=ɯnɯngət#k=atʰat#t=a.
